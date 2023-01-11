@@ -8,7 +8,7 @@
 .content{
     overflow: hidden;
     display: flex;
-flex-direction: column;
+    flex-direction: column;
 }
 .uwu{
     font-size: 30px;

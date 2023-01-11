@@ -1,1 +1,10 @@
-/* overflow-y: scroll; */ 
+.img{
+    height:400px;
+    gap:20px;
+}
+.galery{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    margin-top: 20px;;
+}
